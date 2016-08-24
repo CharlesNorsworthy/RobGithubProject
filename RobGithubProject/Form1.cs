@@ -16,5 +16,10 @@ namespace RobGithubProject
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            Robert Waguespack: I love to play Ultimate Frisbee - quote!
+        }
     }
 }
